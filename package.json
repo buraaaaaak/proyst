@@ -1,0 +1,25 @@
+{
+  "name": "proyst",
+  "version": "0.0.5",
+  "description": "Express projeleri için kolay router alternatifi",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint src --fix"
+  },
+  "types": "types/index.d.ts",
+  "keywords": [
+    "router",
+    "express",
+    "web",
+    "app"
+  ],
+  "author": "burak",
+  "license": "MIT",
+  "dependencies": {
+    "uglify-js": "^3.17.4"
+  }
+}
