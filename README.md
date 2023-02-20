@@ -1,7 +1,10 @@
-
 ## tasarım ve geliştirme
 
 - [@burakbbyrmm](https://www.instagram.com/burakbbyrmm)
+
+## proje linki
+
+https://www.npmjs.com/package/proyst
 
 ## ne işe yarar?
 
